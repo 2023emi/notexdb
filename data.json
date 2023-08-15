@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Note 1",
+    "content": "This is the content of Note 1.",
+    "date": "2023-08-15",
+    "tags": ["tag1", "tag2"]
+  },
+  {
+    "title": "Note 2",
+    "content": "This is the content of Note 2.",
+    "date": "2023-08-14",
+    "tags": ["tag2", "tag3"]
+  },
+  {
+    "title": "Note 3",
+    "content": "This is the content of Note 3.",
+    "date": "2023-08-13",
+    "tags": ["tag1", "tag3"]
+  },
+  {
+    "title": "Note 4",
+    "content": "This is the content of Note 4.",
+    "date": "2023-08-12",
+    "tags": ["tag2", "tag4"]
+  },
+  {
+    "title": "Git",
+    "content": "or create a new repository on the command line\n\necho \"# jsondb\" >> README.md\ngit init\ngit add README.md\ngit commit -m \"first commit\"\ngit branch -M main\ngit remote add origin https://github.com/2023emi/jsondb.git\ngit push -u origin main",
+    "date": "2023-08-12",
+    "tags": ["tag2", "tag4"]
+  },
+  {
+  "title": "Git",
+  "content": "…or push an existing repository from the command line\n\ngit remote add origin https://github.com/2023emi/jsondb.git\ngit branch -M main\ngit push -u origin main",
+  "date": "2023-08-12",
+  "tags": ["tag2", "tag4"]
+}
+
+]
